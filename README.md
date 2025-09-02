@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Aitom
 
-<!--
-**AitomD/AitomD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Focado em **Desenvolvimento Web e Back-End**  
+🚀 Sempre aprendendo novas tecnologias e criando projetos próprios  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Ferramentas
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5  
+- **Backend:** PHP, Java(básico)  
+- **Banco de Dados:** MySQL  
+- **Controle de versão:** Git & GitHub  
+- **Outros:** Construct 3, GitHub Pages  
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🕹️ [WarGun – Site Oficial](https://github.com/AitomD/Wargun)
+Site desenvolvido para apresentar meu jogo **WarGun**, com interface inspirada em páginas de divulgação de games.  
+**Tecnologias:** HTML5, CSS3, JavaScript.  
+
+### 🍔 [Site da Lanchonete](https://github.com/AitomD/Roxito)
+Site institucional de uma lanchonete fictícia, com cardápio organizado e layout responsivo.  
+**Tecnologias:** HTML5, CSS3, Bootstrap 5, JavaScript  
+
+### 📚 [Repositório de Estudos](https://github.com/AitomD/Estudos-de-Linguagens)
+Espaço para exercícios, práticas e pequenos testes em diferentes linguagens de programação (Java, PHP, JavaScript).  
+
+### 🌟 [Portfólio de Projetos](https://github.com/AitomD/Portifolio)
+Repositório central que reúne todos os meus projetos e trabalhos desenvolvidos durante a faculdade e estudos pessoais.  
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/aitom-donatoni-38483b340)  
+- [E-mail](aitomdonatoni@gmail.com)  
+
+---
+
+✨ Obrigado por visitar meu GitHub! Sinta-se à vontade para explorar meus projetos e estudos.
