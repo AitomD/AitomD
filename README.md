@@ -22,7 +22,7 @@ Site desenvolvido para apresentar meu jogo **WarGun**, com interface inspirada e
 **Tecnologias:** HTML5, CSS3, JavaScript.  
 
 ### 🍔 [Site da Lanchonete](https://github.com/AitomD/Roxito)
-Site institucional de uma lanchonete fictícia, com cardápio organizado e layout responsivo.  
+Site de uma lanchonete da minha cidade, com cardápio organizado e layout responsivo.  
 **Tecnologias:** HTML5, CSS3, Bootstrap 5, JavaScript  
 
 ### 📚 [Repositório de Estudos](https://github.com/AitomD/Estudos-de-Linguagens)
