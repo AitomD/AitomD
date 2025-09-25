@@ -1,41 +1,38 @@
-# 👋 Olá, eu sou o Aitom
+👋 Olá, eu sou o Aitom
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Focado em **Desenvolvimento Web e Back-End**  
-🚀 Sempre aprendendo novas tecnologias e criando projetos próprios  
+🎓 Estudante de Técnico em Análise e Desenvolvimento de Sistemas (TADS)
+💻 Focado em Desenvolvimento Web & Back-End
 
----
+🔧 Tecnologias
 
-## 🔧 Tecnologias & Ferramentas
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5  
-- **Backend:** PHP, Java(básico)  
-- **Banco de Dados:** MySQL  
-- **Controle de versão:** Git & GitHub  
+Frontend: HTML5, CSS3, JavaScript, Bootstrap 5
 
----
+Backend: PHP, Java (básico)
 
-## 📌 Projetos em Destaque
+Banco de Dados: MySQL
 
-### 🕹️ [WarGun – Site Oficial](https://github.com/AitomD/Wargun)
-Site desenvolvido para apresentar meu jogo **WarGun**, com interface inspirada em páginas de divulgação de games.  
-**Tecnologias:** HTML5, CSS3, JavaScript.  
+Controle de versão: Git & GitHub
 
-### 🍔 [Site da Lanchonete](https://github.com/AitomD/Roxito)
-Site de uma lanchonete da minha cidade, com cardápio organizado e layout responsivo.  
-**Tecnologias:** HTML5, CSS3, Bootstrap 5, JavaScript  
+📌 Projetos
 
-### 📚 [Repositório de Estudos](https://github.com/AitomD/Estudos-de-Linguagens)
-Espaço para exercícios, práticas e pequenos testes em diferentes linguagens de programação (Java, PHP, JavaScript).  
+🕹️ WarGun – Site Oficial
 
-### 🌟 [Portfólio de Projetos](https://github.com/AitomD/Portifolio)
-Repositório central que reúne todos os meus projetos e trabalhos desenvolvidos durante a faculdade e estudos pessoais.  
+Primeiro projeto do curso: site para apresentar meu jogo WarGun, com design inspirado em páginas de divulgação de games.
 
----
+🍔 Site da Lanchonete
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/aitom-donatoni-38483b340)  
-- [E-mail](aitomdonatoni@gmail.com)  
+Projeto feito para contribuir com a comunidade, mostrando um cardápio organizado e layout responsivo.
 
----
+📚 Repositório de Estudos
 
-✨ Obrigado por visitar meu GitHub! Sinta-se à vontade para explorar meus projetos e estudos.
+Exercícios e práticas em diferentes linguagens, como Java, PHP e JavaScript.
+
+🌟 Portfólio de Projetos
+
+Centraliza todos meus projetos e trabalhos desenvolvidos durante o curso e estudos pessoais.
+
+📫 Contato
+
+LinkedIn
+
+✉️ aitomdonatoni@gmail.com
