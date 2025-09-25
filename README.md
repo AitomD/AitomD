@@ -1,42 +1,37 @@
-👋 Olá, eu sou o Aitom
+# 👋 Olá, eu sou o Aitom
 
-🎓 Estudante de Técnico em Análise e Desenvolvimento de Sistemas (TADS)
-💻 Focado em Desenvolvimento Web & Back-End
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Focado em Fullstack
+🚀 Busco sempre me atualizar!
 
-🔧 Tecnologias
+---
 
-Frontend: HTML5, CSS3, JavaScript, Bootstrap 5
+## 🔧 Tecnologias & Ferramentas
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5  
+- **Backend:** PHP, Java(básico)  
+- **Banco de Dados:** MySQL  
+- **Controle de versão:** Git & GitHub  
 
-Backend: PHP, Java (básico)
+---
 
-Banco de Dados: MySQL
+## 📌 Projetos em Destaque
 
-Controle de versão: Git & GitHub
+### 🕹️ [WarGun – Site Oficial](https://github.com/AitomD/Wargun)
+Meu primeiro site feito para um trabalho da faculdade.
+**Tecnologias:** HTML5, CSS3, JavaScript.  
 
-📌 Projetos
+### 🍔 [Site da Lanchonete](https://github.com/AitomD/Roxito)
+Site de uma lanchonete da minha cidade, com cardápio organizado e layout responsivo.  
+**Tecnologias:** HTML5, CSS3, Bootstrap 5, JavaScript  
 
-🕹️ WarGun – Site Oficial
-Repositório
+### 📚 [Repositório de Estudos](https://github.com/AitomD/Estudos-de-Linguagens)
+Espaço para exercícios, práticas e pequenos testes em diferentes linguagens de programação (Java, PHP, JavaScript).  
 
-Primeiro projeto do curso: site para apresentar meu jogo WarGun, com design inspirado em páginas de divulgação de games.
+### 🌟 [Portfólio de Projetos](https://github.com/AitomD/Portifolio)
+Repositório central que reúne todos os meus projetos e trabalhos desenvolvidos durante a faculdade e estudos pessoais.  
 
-🍔 Site da Lanchonete
-Repositório
+---
 
-Projeto feito para contribuir com a comunidade, mostrando um cardápio organizado e layout responsivo.
-
-📚 Repositório de Estudos
-Repositório
-
-Exercícios e práticas em diferentes linguagens, como Java, PHP e JavaScript.
-
-🌟 Portfólio de Projetos
-Repositório
-
-Centraliza todos meus projetos e trabalhos desenvolvidos durante o curso e estudos pessoais.
-
-📫 Contato
-
-LinkedIn
-
-✉️ aitomdonatoni@gmail.com
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/aitom-donatoni-38483b340)  
+- [E-mail](aitomdonatoni@gmail.com)  
