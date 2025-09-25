@@ -11,7 +11,6 @@
 - **Backend:** PHP, Java(básico)  
 - **Banco de Dados:** MySQL  
 - **Controle de versão:** Git & GitHub  
-- **Outros:** Construct 3, GitHub Pages  
 
 ---
 
