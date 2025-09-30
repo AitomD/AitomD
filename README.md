@@ -27,7 +27,7 @@ Site de uma lanchonete da minha cidade, com cardápio organizado e layout respon
 ### 📚 [Repositório de Estudos](https://github.com/AitomD/Estudos-de-Linguagens)
 Espaço para exercícios, práticas e pequenos testes em diferentes linguagens de programação (Java, PHP, JavaScript).  
 
-### 🌟 [Portfólio de Projetos](https://github.com/AitomD/BlueStar)
+### 🌟 [Site BlueStar](https://github.com/AitomD/BlueStar)
 Projeto de faculdade feito um site com API e banco de dados para login e cadastro de usuario.  
 
 ---
