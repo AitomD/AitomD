@@ -32,30 +32,27 @@ Projeto de faculdade feito um site com API e banco de dados para login e cadastr
 
 🛒 [E-commerce de Computadores e Celulares](https://github.com/AitomD/eco)
 
-Plataforma de e-commerce completa, voltada para a venda de computadores e celulares.
+Plataforma de e-commerce para venda de computadores e celulares, com foco em organização, controle e experiência do usuário.
 
-✨ Funcionalidades:
+✨ Funcionalidades
 
-🔐 Autenticação de usuários (login e cadastro)
+🔐 Login e cadastro de usuários
 
-📊 Dashboard administrativo para controle do sistema
+📊 Dashboard administrativo
 
-📦 Cadastro e gerenciamento de produtos
+📦 Gerenciamento de produtos
 
-🛒 Carrinho de compras com gerenciamento de itens
+🛒 Carrinho de compras
 
-🗄️ Integração com banco de dados para persistência das informações
+🗄️ Integração com banco de dados
 
+🛠️ Tecnologias
 
-🛠️ Tecnologias Utilizadas:
+PHP • MySQL
 
-⚙️ Backend: PHP
+HTML5 • CSS3 • JavaScript
 
-🗄️ Banco de Dados: MySQL
-
-🎨 Frontend: HTML5, CSS3, JavaScript
-
-📐 Framework CSS: Bootstrap 5
+Bootstrap 5
 ---
 
 ## 📫 Contato
