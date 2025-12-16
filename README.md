@@ -20,11 +20,6 @@
 
 Meu primeiro site feito para um trabalho da faculdade.
 **Tecnologias:** HTML5, CSS3, JavaScript.  
-
-🍔 [Site da Lanchonete](https://github.com/AitomD/Roxito)
-
-Site de uma lanchonete da minha cidade, com cardápio organizado e layout responsivo.  
-**Tecnologias:** HTML5, CSS3, Bootstrap 5, JavaScript  
  
 🌟 [Site BlueStar](https://github.com/AitomD/BlueStar)
 
