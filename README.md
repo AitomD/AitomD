@@ -30,19 +30,31 @@ Site de uma lanchonete da minha cidade, com cardápio organizado e layout respon
 
 Projeto de faculdade feito um site com API e banco de dados para login e cadastro de usuario.  
 
-🛒 ECO – [E-commerce de Computadores e Celulares](https://github.com/AitomD/eco)
+🛒 [E-commerce de Computadores e Celulares](https://github.com/AitomD/eco)
 
 Plataforma de e-commerce completa, voltada para a venda de computadores e celulares, desenvolvida para aplicar conceitos de desenvolvimento web fullstack.
 
-Funcionalidades:
-Login e cadastro de usuários
-Dashboard administrativo
-Cadastro e gerenciamento de produtos
-Carrinho de compras
-Integração com banco de dados
+✨ Funcionalidades
 
-Tecnologias:
-PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap 5
+🔐 Autenticação de usuários (login e cadastro)
+
+📊 Dashboard administrativo para controle do sistema
+
+📦 Cadastro e gerenciamento de produtos
+
+🛒 Carrinho de compras com gerenciamento de itens
+
+🗄️ Integração com banco de dados para persistência das informações
+
+🛠️ Tecnologias Utilizadas
+
+⚙️ Backend: PHP
+
+🗄️ Banco de Dados: MySQL
+
+🎨 Frontend: HTML5, CSS3, JavaScript
+
+📐 Framework CSS: Bootstrap 5
 ---
 
 ## 📫 Contato
