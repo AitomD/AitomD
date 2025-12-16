@@ -30,6 +30,21 @@ Espaço para exercícios, práticas e pequenos testes em diferentes linguagens d
 ### 🌟 [Site BlueStar](https://github.com/AitomD/BlueStar)
 Projeto de faculdade feito um site com API e banco de dados para login e cadastro de usuario.  
 
+🛒 ECO – E-commerce de Computadores e Celulares
+
+🔗 https://github.com/AitomD/eco
+
+Plataforma de e-commerce completa, voltada para a venda de computadores e celulares, desenvolvida para aplicar conceitos de desenvolvimento web fullstack.
+
+Funcionalidades:
+Login e cadastro de usuários
+Dashboard administrativo
+Cadastro e gerenciamento de produtos
+Carrinho de compras
+Integração com banco de dados
+
+Tecnologias:
+PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap 5
 ---
 
 ## 📫 Contato
