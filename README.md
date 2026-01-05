@@ -16,11 +16,6 @@
 
 📌 Projetos em Destaque
 
-🕹️ [WarGun – Site Oficial](https://github.com/AitomD/Wargun)
-
-Meu primeiro site feito para um trabalho da faculdade.
-**Tecnologias:** HTML5, CSS3, JavaScript.  
- 
 🌟 [Site BlueStar](https://github.com/AitomD/BlueStar)
 
 Projeto de faculdade feito um site com API e banco de dados para login e cadastro de usuario.  
