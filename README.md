@@ -22,6 +22,9 @@ Prazer, meu nome é Aitom.
 Projeto acadêmico desenvolvido como trabalho de faculdade, consistindo em um site completo  
 com API integrada, banco de dados e sistema de login e cadastro de usuários.
 
+> Projeto acadêmico desenvolvido como trabalho de faculdade, consistindo em um site completo  
+> com **API integrada**, **banco de dados** e sistema de **login e cadastro de usuários**.
+
 ---
 
 <a href="https://github.com/AitomD/eco" target="_blank">
