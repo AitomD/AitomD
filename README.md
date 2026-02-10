@@ -11,41 +11,26 @@ Prazer, meu nome é Aitom.
 </p>
 
 
-📌 Meus Projetos
----
-🌟 BlueStar
+## 📌 Meus Projetos
 
-🔗 Ver repositório
-
-Projeto acadêmico desenvolvido como trabalho de faculdade, consistindo em um site completo
+<a href="https://github.com/AitomD/BlueStar" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+  
+### 🌟 BlueStar
+Projeto acadêmico desenvolvido como trabalho de faculdade, consistindo em um site completo  
 com API integrada, banco de dados e sistema de login e cadastro de usuários.
 
-Tecnologias:
-HTML · CSS · JavaScript · PHP · MySQL
+---
 
-🛒 E-commerce de Computadores e Celulares
+<a href="https://github.com/AitomD/eco" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🔗 Ver repositório
-
-Plataforma de e-commerce voltada para a venda de computadores e celulares,
+### 🛒 E-commerce de Computadores e Celulares
+Plataforma de e-commerce voltada para a venda de computadores e celulares,  
 com foco em organização, controle administrativo e experiência do usuário.
 
-<details> <summary><strong>✨ Funcionalidades</strong></summary>
-
-🔐 Login e cadastro de usuários
-
-📊 Dashboard administrativo
-
-📦 Gerenciamento de produtos
-
-🛒 Carrinho de compras
-
-🗄️ Integração com banco de dados
-
-</details>
-
-Tecnologias:
-HTML · CSS · JavaScript · PHP · MySQL
 
 📫 Contato
 <p align="left"> <a href="https://www.linkedin.com/in/aitom-donatoni-38483b340" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
