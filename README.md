@@ -17,7 +17,7 @@ Prazer, meu nome é Aitom.
   <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 ---  
-🌟 BlueStar
+##🌟 BlueStar
 Projeto acadêmico desenvolvido como trabalho de faculdade, consistindo em um site completo  
 com API integrada, banco de dados e sistema de login e cadastro de usuários.
 
@@ -26,7 +26,7 @@ com API integrada, banco de dados e sistema de login e cadastro de usuários.
 <a href="https://github.com/AitomD/eco" target="_blank">
   <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-🛒 E-commerce de Computadores e Celulares
+##🛒 E-commerce de Computadores e Celulares
 Plataforma de e-commerce voltada para a venda de computadores e celulares,  
 com foco em organização, controle administrativo e experiência do usuário.
 
