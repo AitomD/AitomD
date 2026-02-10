@@ -17,11 +17,14 @@ Prazer, meu nome é Aitom.
 
 Projeto de faculdade feito um site com API e banco de dados para login e cadastro de usuario.  
 
-🛒 [E-commerce de Computadores e Celulares](https://github.com/AitomD/eco)
+🛒 E-commerce de Computadores e Celulares
 
-Plataforma de e-commerce para venda de computadores e celulares, com foco em organização, controle e experiência do usuário.
+🔗 Ver repositório
 
-✨ Funcionalidades:
+Plataforma de e-commerce voltada para a venda de computadores e celulares,
+com foco em organização, controle administrativo e experiência do usuário.
+
+<details> <summary><strong>✨ Funcionalidades</strong></summary>
 
 🔐 Login e cadastro de usuários
 
@@ -32,8 +35,12 @@ Plataforma de e-commerce para venda de computadores e celulares, com foco em org
 🛒 Carrinho de compras
 
 🗄️ Integração com banco de dados
----
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/aitom-donatoni-38483b340)  
-- [E-mail](aitomd.dev@gmail.com)  
+</details>
+
+Tecnologias:
+HTML · CSS · JavaScript · PHP · MySQL
+
+📫 Contato
+<p align="left"> <a href="https://www.linkedin.com/in/aitom-donatoni-38483b340" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a> <a href="mailto:aitomd.dev@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
