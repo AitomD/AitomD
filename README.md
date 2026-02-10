@@ -32,16 +32,8 @@ Plataforma de e-commerce para venda de computadores e celulares, com foco em org
 🛒 Carrinho de compras
 
 🗄️ Integração com banco de dados
-
-🛠️ Tecnologias:
-
-PHP • MySQL
-
-HTML5 • CSS3 • JavaScript
-
-Bootstrap 5
 ---
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/aitom-donatoni-38483b340)  
-- [E-mail](aitomdonatoni@gmail.com)  
+- [E-mail](aitomd.dev@gmail.com)  
