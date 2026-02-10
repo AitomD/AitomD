@@ -30,8 +30,9 @@ Prazer, meu nome é Aitom.
 </a>
 
 ### 🛒 E-commerce de Computadores e Celulares
-Plataforma de e-commerce voltada para a venda de computadores e celulares,  
-com foco em organização, controle administrativo e experiência do usuário.
+
+> Plataforma de e-commerce voltada para a venda de computadores e celulares,  
+> com foco em **organização**, **controle administrativo** e **experiência do usuário**.
 
 
 📫 Contato
