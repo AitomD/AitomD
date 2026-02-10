@@ -19,7 +19,7 @@ Projeto de faculdade feito um site com API e banco de dados para login e cadastr
 
 🛒 E-commerce de Computadores e Celulares
 
-🔗 Ver repositório
+🔗 Ver repositório(https://github.com/AitomD/eco)
 
 Plataforma de e-commerce voltada para a venda de computadores e celulares,
 com foco em organização, controle administrativo e experiência do usuário.
