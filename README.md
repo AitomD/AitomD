@@ -12,14 +12,19 @@ Prazer, meu nome é Aitom.
 
 
 📌 Meus Projetos
+🌟 BlueStar
 
-🌟 [Site BlueStar](https://github.com/AitomD/BlueStar)
+🔗 Ver repositório
 
-Projeto de faculdade feito um site com API e banco de dados para login e cadastro de usuario.  
+Projeto acadêmico desenvolvido como trabalho de faculdade, consistindo em um site completo
+com API integrada, banco de dados e sistema de login e cadastro de usuários.
+
+Tecnologias:
+HTML · CSS · JavaScript · PHP · MySQL
 
 🛒 E-commerce de Computadores e Celulares
 
-🔗 Ver repositório(https://github.com/AitomD/eco)
+🔗 Ver repositório
 
 Plataforma de e-commerce voltada para a venda de computadores e celulares,
 com foco em organização, controle administrativo e experiência do usuário.
