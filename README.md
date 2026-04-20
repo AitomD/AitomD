@@ -1,4 +1,6 @@
-Prazer, meu nome é Aitom.
+Prazer, meu nome é Aitom 👋
+
+Sou desenvolvedor full stack em formação, com foco em aplicações web modernas utilizando Node.js, React e bancos de dados relacionais.
 ---
 <p align="center"> <strong> Minhas Tecnologias são </strong> </p>
 <p align="center">
