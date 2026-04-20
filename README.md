@@ -1,10 +1,8 @@
 Prazer, meu nome é Aitom 👋
+Focado em desenvolvimento Full Stack (React, Node.js, TypeScript) 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AitomD&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitomD&layout=compact&theme=tokyonight"/>
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AitomD&theme=tokyo-night"/>
 </div>
 
 ---
