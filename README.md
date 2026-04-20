@@ -18,17 +18,6 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
 
 ## 📌 Meus Projetos
 
-<a href="https://github.com/AitomD/BlueStar" target="_blank">
-  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-### 🌟 BlueStar
-
-> Projeto acadêmico desenvolvido como trabalho de faculdade, focado na criação de um site completo  
-> com **API integrada**, **banco de dados** e sistema de **login e cadastro de usuários**.
-
----
-
 <a href="https://github.com/AitomD/eco" target="_blank">
   <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
