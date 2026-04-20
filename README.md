@@ -1,10 +1,12 @@
 Prazer, meu nome é Aitom 👋
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=AitomD&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AitomD&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitomD&layout=compact&theme=tokyonight"/>
 </div>
-Sou desenvolvedor full stack em formação, com foco em aplicações web modernas utilizando Node.js, React e bancos de dados relacionais.
+
+<img src="https://raw.githubusercontent.com/AitomD/AitomD/output/snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AitomD&theme=tokyo-night"/>
+
 ---
 <p align="center"> <strong> Minhas Tecnologias são </strong> </p>
 <p align="center">
