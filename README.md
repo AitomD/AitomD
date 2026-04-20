@@ -3,9 +3,9 @@ Prazer, meu nome é Aitom 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AitomD&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitomD&layout=compact&theme=tokyonight"/>
 </div>
-
-<img src="https://raw.githubusercontent.com/AitomD/AitomD/output/snake.svg"/>
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AitomD&theme=tokyo-night"/>
+</div>
 
 ---
 <p align="center"> <strong> Minhas Tecnologias são </strong> </p>
