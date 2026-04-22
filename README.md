@@ -18,14 +18,14 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
 
 ## 📌 Meus Projetos
 
-<a href="https://github.com/AitomD/eco" target="_blank">
-  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 ### 🛒 E-commerce de Computadores e Celulares
 
 > Plataforma de e-commerce voltada para a venda de computadores e celulares,  
 > com foco em **organização**, **controle administrativo** e **experiência do usuário**.
+> 
+<a href="https://github.com/AitomD/eco" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 🚗 Prime Motors
 
