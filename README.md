@@ -16,8 +16,6 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80"/></p>
 
 
-## 📌 Meus Projetos
-
 ### 🛒 E-commerce de Computadores e Celulares
 
 > Plataforma de e-commerce voltada para a venda de computadores e celulares,  
@@ -29,7 +27,7 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
 
 ---
 
-🚗 Prime Motors
+###🚗 Prime Motors
 
 Plataforma de e-commerce de veículos.
 Site desenvolvido utilizando React no front-end e Node.js no back-end,
