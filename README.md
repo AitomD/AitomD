@@ -29,11 +29,10 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
 
 🚗 Prime Motors
 
-Plataforma de e-commerce de veículos,
-com foco em segurança, organização de dados e experiência do usuário.
+Plataforma de e-commerce de veículos.
 
 Site desenvolvido utilizando React no front-end e Node.js no back-end,
-contando com **sistema completo de autenticação e gerenciamento de dados**.
+contando com sistema completo de autenticação e gerenciamento de dados.
 
 🔐 Autenticação com JWT
 🔑 Criptografia de senhas
@@ -42,16 +41,16 @@ contando com **sistema completo de autenticação e gerenciamento de dados**.
 🔗 Projeto completo
 
 💻 Front-end:
+
 <a href="https://github.com/AitomD/eco](https://github.com/FernandoConsolinRosa11/FrontEnd2026" target="_blank">
   <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-👉 https://github.com/FernandoConsolinRosa11/FrontEnd2026
 
 ⚙️ Back-end:
+
 <a href="https://github.com/AitomD/PrimeMotors-backend" target="_blank">
   <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-👉 https://github.com/AitomD/PrimeMotors-backend
 
 📫 Contato
 <p align="left"> <a href="https://www.linkedin.com/in/aitom-donatoni-38483b340" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
