@@ -29,9 +29,9 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
 
 ###🚗 Prime Motors
 
-Plataforma de e-commerce de veículos.
-Site desenvolvido utilizando React no front-end e Node.js no back-end,
-contando com sistema completo de autenticação e gerenciamento de dados.
+>Plataforma de e-commerce de veículos.
+>Site desenvolvido utilizando React no front-end e Node.js no back-end.
+>Sistema completo de autenticação e gerenciamento de dados.
 
 🔐 Autenticação com JWT
 
