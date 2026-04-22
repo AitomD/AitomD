@@ -27,6 +27,8 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
   <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+---
+
 🚗 Prime Motors
 
 Plataforma de e-commerce de veículos.
