@@ -42,9 +42,15 @@ contando com **sistema completo de autenticação e gerenciamento de dados**.
 🔗 Projeto completo
 
 💻 Front-end:
+<a href="https://github.com/AitomD/eco](https://github.com/FernandoConsolinRosa11/FrontEnd2026" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 👉 https://github.com/FernandoConsolinRosa11/FrontEnd2026
 
 ⚙️ Back-end:
+<a href="https://github.com/AitomD/PrimeMotors-backend" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 👉 https://github.com/AitomD/PrimeMotors-backend
 
 📫 Contato
