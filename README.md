@@ -39,6 +39,7 @@ contando com sistema completo de autenticação e gerenciamento de dados.
 🔑 Criptografia de senhas
 🛠️ API estruturada
 💾 Banco de dados com Prisma
+
 🔗 Projeto completo
 
 ### 💻 Front-end:
