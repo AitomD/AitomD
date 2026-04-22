@@ -36,11 +36,12 @@ Site desenvolvido utilizando React no front-end e Node.js no back-end,
 contando com sistema completo de autenticação e gerenciamento de dados.
 
 🔐 Autenticação com JWT
-🔑 Criptografia de senhas
-🛠️ API estruturada
-💾 Banco de dados com Prisma
 
-🔗 Projeto completo
+🔑 Criptografia de senhas
+
+🛠️ API estruturada
+
+💾 Banco de dados com Prisma
 
 ### 💻 Front-end:
 
