@@ -27,6 +27,25 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
 > Plataforma de e-commerce voltada para a venda de computadores e celulares,  
 > com foco em **organização**, **controle administrativo** e **experiência do usuário**.
 
+🚗 Prime Motors
+
+Plataforma de e-commerce de veículos,
+com foco em segurança, organização de dados e experiência do usuário.
+
+Site desenvolvido utilizando React no front-end e Node.js no back-end,
+contando com **sistema completo de autenticação e gerenciamento de dados**.
+
+🔐 Autenticação com JWT
+🔑 Criptografia de senhas
+🛠️ API estruturada
+💾 Banco de dados com Prisma
+🔗 Projeto completo
+
+💻 Front-end:
+👉 https://github.com/FernandoConsolinRosa11/FrontEnd2026
+
+⚙️ Back-end:
+👉 https://github.com/AitomD/PrimeMotors-backend
 
 📫 Contato
 <p align="left"> <a href="https://www.linkedin.com/in/aitom-donatoni-38483b340" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
