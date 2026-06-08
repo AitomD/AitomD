@@ -1,7 +1,6 @@
 Prazer, meu nome é Aitom 👋
 Focado em desenvolvimento Full Stack (React, Node.js, TypeScript) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AitomD&show_icons=true&theme=dark)
 ---
 <p align="center">
   <strong>Arquitetura & Backend</strong><br><br>
