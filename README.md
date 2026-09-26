@@ -29,31 +29,45 @@ Focado em desenvolvimento Full Stack (React, Node.js, TypeScript)
 
 ---
 
-###🚗 Prime Motors
+### 🚗 Prime Motors
 
->Plataforma de e-commerce de veículos.
+> Plataforma de e-commerce de veículos desenvolvida como projeto acadêmico, com aplicações **Web e Mobile** integradas à mesma API REST.
 >
->Site desenvolvido utilizando React no front-end e Node.js no back-end.
->
->Sistema completo de autenticação e gerenciamento de dados.
+> Desenvolvido com **React, TypeScript, Node.js, Express, React Native e MySQL**.
 
-🔐 Autenticação com JWT
+🔐 Autenticação e autorização com **JWT**
 
-🔑 Criptografia de senhas
+🛡️ Validação de dados com **Zod**
 
-🛠️ API estruturada
+💾 Banco de dados **MySQL + Prisma ORM**
 
-💾 Banco de dados com Prisma
+📱 Aplicativo mobile com **React Native + Expo**
+
+🐳 Conteinerização com **Docker + Docker Compose**
+
+🌐 **Nginx** como proxy reverso
 
 ### 💻 Front-end:
 
-<a href="https://github.com/AitomD/eco](https://github.com/FernandoConsolinRosa11/FrontEnd2026" target="_blank">
+<a href="https://github.com/PrimeMotors-AF/PrimeMotors-FrontEnd" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+### 📱 Mobile:
+
+<a href="https://github.com/PrimeMotors-AF/PrimeMotors-Mobile" target="_blank">
   <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ### ⚙️ Back-end:
 
-<a href="https://github.com/AitomD/PrimeMotors-backend" target="_blank">
+<a href="https://github.com/PrimeMotors-AF/PrimeMotors-backend" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+### 🐳 Infraestrutura:
+
+<a href="https://github.com/PrimeMotors-AF/PrimeMotors-docker" target="_blank">
   <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
